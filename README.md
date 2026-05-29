@@ -53,12 +53,12 @@
 
 如果您在使用过程中有任何建议、想要新增常用标签，或者想探讨如何升级为 **200人一键全自动 Excel 批量导出大版本**，欢迎随时联系我：
 
-- **Author**: Ms. Gaia Yang
+- **Author**: Gaia Yang
 - **Email**: [gaiayang.edu@gmail.com](mailto:gaiayang.edu@gmail.com)
 - **Workflow Workstation**: Powered and embedded beautifully within **Notion**
 
 ---
 
 <p align="center">
-  Crafted with 💻 and ❤️ by Ms. Gaia Yang | Powered by Claude AI, DeepSeek & GitHub
+  Crafted with 💻 and ❤️ by Gaia Yang | Powered by Claude AI, DeepSeek & GitHub
 </p>
